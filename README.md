@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **Webdeveloper, programmer.....**
 
-- 👨‍💻 All of my projects are available at [https://ismail-portfolio-sigma.vercel.app/](https://ismail-portfolio-sigma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.ismailabbasi.qzz.io/projects](https://www.ismailabbasi.qzz.io/projects)
 
 - 📝 I regularly write articles on [https://stackoverflow.com/users/28328572/ismail-dev](https://stackoverflow.com/users/28328572/ismail-dev)
 
