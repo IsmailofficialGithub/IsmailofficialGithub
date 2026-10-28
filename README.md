@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **DevOps Engineer & Full-Stack Developer** based in Islamabad, Pakistan, with about 4 years of experience building and shipping production systems, from dual-microservice architectures to CI/CD pipelines to full observability stacks. I care about taking products from prototype to production-grade infrastructure.
+I'm a **DevOps Engineer & Full-Stack Developer** based in Islamabad, Pakistan, with about 6+ years of experience building and shipping production systems, from dual-microservice architectures to CI/CD pipelines to full observability stacks. I care about taking products from prototype to production-grade infrastructure.
 
 - Currently building production infra for **CallLoom**: a call tracking & routing platform with Node.js/Rust microservices and a full Grafana/Loki/Prometheus observability stack
 - Exploring **3D product visualization & photogrammetry** as a SaaS direction
